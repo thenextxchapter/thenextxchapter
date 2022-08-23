@@ -1,6 +1,6 @@
 ### Hello you, I'm Nonso 👋
 
-- 🔭 &nbsp; I’m currently working on [Shop Down] (https://github.com/thenextxchapter/shop-down), it's a bogus ecommerce application. I hope to be done with it soon.
+- 🔭 &nbsp; I’m currently working on [Shop Down](https://github.com/thenextxchapter/shop-down) it's a bogus ecommerce application. I hope to be done with it soon.
 - 📫 &nbsp; You can reach out to me for collaborations at: chinonso.ata@gmaail.com
 - 🏦 &nbsp; I've previously interned as a Java Software Developer at [eHealth4Everyone](https://ehealth4everyone.com/) and at [FlexiSAF](https://www.flexisaf.com/)
 - 🏦 &nbsp; I've also previously interned as a Front end Developer at [Reimnet Limited](https://reimnet.com/)
