@@ -3,14 +3,7 @@
 
 ---
 
-I'm a developing <b>full-stack developer with focus on back-end</b>.  I’m currently working on [Shop Down](https://github.com/thenextxchapter/shop-down) it's a bogus ecommerce application. I hope to be done with it soon.
-I've previously interned as a Java Software Developer at [eHealth4Everyone](https://ehealth4everyone.com/) and at [FlexiSAF](https://www.flexisaf.com/)
-I've also previously interned as a Front end Developer at [Reimnet Limited](https://reimnet.com/)
-
-I am really passionate about problem solving and web development. 
-
-You can find me writing about my tech journey and other web dev and software engineering tips at my blog on Hashnode, [my blog](https://thenextchapter.hashnode.dev/)! 
-
+I'm a developing <b>full-stack developer with focus on back-end</b>
 
 ---
 
